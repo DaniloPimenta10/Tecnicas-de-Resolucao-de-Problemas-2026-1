@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Custom Settings ---
+
+# Windows (arquivos de miniaturas e configurações de pasta)
+Thumbs.db
+desktop.ini
+
+# VS Code (configurações específicas da sua máquina)
+.vscode/
+
+# Arquivos temporários do Office (caso salve notas em Word/Excel na pasta)
+~$*
